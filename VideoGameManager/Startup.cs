@@ -12,6 +12,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
+// NOTE by Mark, 2020-12-19
 namespace VideoGameManager
 {
     public class Startup
